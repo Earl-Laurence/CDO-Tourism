@@ -1,1 +1,1 @@
-# CDO-Tourism
+Our website is designed as a comprehensive travel guide for those looking to explore Cagayan de Oro City. With a focus on user-friendliness, it provides detailed information about the city’s top tourist destinations. From thrilling adventure attractions like whitewater rafting, zip-lining, and hiking, to cultural and historical sites such as churches and museums, the website covers a wide range of experiences. Each location is showcased with high-definition images and essential details to help travelers make informed decisions during their visit.
